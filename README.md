@@ -12,7 +12,7 @@ python 3.10>
 colab (for training gpus)
 streamlit(deployment)
 
-Repositories and links
+Repositories and links<br>
 ["Deployment"](https://tbdiagnosis-tzasx3fyszjyytpn8ydagy.streamlit.app/)<br>
 ["Huggingface"](https://huggingface.co/MwangiWambugu/tb_xray_model)
 
