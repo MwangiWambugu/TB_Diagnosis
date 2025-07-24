@@ -4,7 +4,7 @@ import streamlit as st
 import pickle
 
 # Load model
-with open("tb_model.pkl", "rb") as f:
+with open("model.pkl", "rb") as f:
     model = pickle.load(f)
 
 st.title("TB X-ray Classifier")
